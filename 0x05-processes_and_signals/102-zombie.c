@@ -19,7 +19,7 @@ int infinite_while(void)
 }
 
 /**
- * main - function that creates 5 zombie processes
+ * main-function that creates 5 zombie processes
  *
  * Return: always 0 (success)
  */
