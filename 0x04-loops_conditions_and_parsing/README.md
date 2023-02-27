@@ -1,7 +1,6 @@
 # 0x04. Loops, conditions and parsing
 
 ## General
-
  - How to create SSH keys
  - What is the advantage of using #!/usr/bin/env bash over #!/bin/bash
  - How to use while, until and for loops
