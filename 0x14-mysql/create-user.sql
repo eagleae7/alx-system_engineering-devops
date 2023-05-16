@@ -1,5 +1,4 @@
--- Create user to check DB status 
--- Run on the master server (task 1)
+-- Create user to check DB status
 
 CREATE USER IF NOT EXISTS 'holberton_user'@'localhost'
 IDENTIFIED BY 'projectcorrection280hbtn';

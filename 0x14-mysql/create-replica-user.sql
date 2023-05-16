@@ -1,4 +1,4 @@
--- Create user to check DB status 
+-- Create user to check DBstatus 
 -- Run on the master server
 
 CREATE USER IF NOT EXISTS 'replica_user'@'%'

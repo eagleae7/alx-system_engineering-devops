@@ -1,4 +1,4 @@
--- Create db on the master server
+-- Create db on the master_server
 CREATE DATABASE IF NOT EXISTS tyrell_corp;
 
 -- Create table
